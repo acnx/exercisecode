@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0a3b0c4-a800-4fa8-b1d2-c8d34bd11806" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cseve/cjv1/ch01/Welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learncss/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learncss/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learncss/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learncss/ch1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../learncss/ch1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/ConstTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/ConstTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/ConstructorTest01/ConstructorTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/ConstructorTest01/ConstructorTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/ConstructorTest01/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/ConstructorTest01/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/IdentifierTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/IdentifierTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/OverloadTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/OverloadTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/VarTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/VarTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/duotai/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/duotai/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/duotai/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/duotai/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/duotai/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/duotai/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/duotai/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/duotai/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/fengzhuang/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/fengzhuang/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/fengzhuang/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/fengzhuang/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/fengzhuang2/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/fengzhuang2/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/fengzhuang2/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/fengzhuang2/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/reflect/ReflectTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/reflect/ReflectTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/staticTest/Chinese.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/staticTest/Chinese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/staticTest/ChineseTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/staticTest/ChineseTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/staticTest02/Chinese.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/staticTest02/Chinese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/staticTest02/ChineseTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/staticTest02/ChineseTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/staticTest03/Shili.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/staticTest03/Shili.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/staticTest03/StaticTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/staticTest03/StaticTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjavase/src/com/cseve/javase/staticTest03/StaticTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjavase/src/com/cseve/java/staticTest03/StaticTest02.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2125169414">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="190" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="190" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cseve/cjv1/ch01/Welcome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/cseve/cjv1/ch01/Welcome.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flowJava</id>
+          </State>
+          <State>
+            <id>Data flowJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Error handlingGroovy</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>InitializationJava</id>
+          </State>
+          <State>
+            <id>JSP</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>LintLintAndroid</id>
+          </State>
+          <State>
+            <id>Method metricsGroovy</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Modularization issuesJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Reactor</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>SecurityJava</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>TypographyUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CoreJaveVolume1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoreJaveVolume1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoreJaveVolume1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoreJaveVolume1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615730535414" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Other File Types" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Welcome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cseve.cjv1.ch01.Welcome" />
+      <module name="CoreJaveVolume1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cseve.cjv1.ch01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Welcome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0a3b0c4-a800-4fa8-b1d2-c8d34bd11806" name="Default Changelist" comment="" />
+      <created>1615716610695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615716610695</updated>
+      <workItem from="1615716612490" duration="3770000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3770000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="738" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3296875" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CoreJaveVolume1.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cseve/cjv1/ch01/Welcome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

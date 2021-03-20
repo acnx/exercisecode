@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+    PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+  <!--环境配置：数据库的连接信息-->
+  <!--default：默认环境，必须和某个environment的id值一致-->
+  <environments default="development">
+    <!--一个数据库信息的配置，环境-->
+    <!--id 一个唯一值，可以自定义，表示环境的名称-->
+    <environment id="development">
+      <!--mybatis的事务类型
+      type：JDBC（表示使用JDBC中的Connection对象的commit，rollback做事务处理）
+      -->
+      <transactionManager type="JDBC"/>
+      <!--数据源，连接数据库
+        type：数据库类型，POOLED表示连接池
+      -->
+      <dataSource type="POOLED">
+        <!--
+          以下标签内的name属性不可修改
+        -->
+        <property name="driver" value="com.mysql.jdbc.Driver"/>
+        <property name="url" value="jdbc:mysql://localhost:3306/mybatis"/>
+        <property name="username" value="root"/>
+        <property name="password" value="root"/>
+      </dataSource>
+    </environment>
+  </environments>
+  <!--用来指定sql映射文件的位置-->
+  <mappers>
+    <!--一个mapper标签指定一个文件的位置：从类路径（target/classes）开始的路径-->
+    <mapper resource="com/cseve/mybatis03201415/dao/StudentDao.xml"/>
+  </mappers>
+</configuration>
+
+<!--
+这是mybatis的主配置文件
+1. 约束文件
+2. 根标签
+
+-->
