@@ -1,0 +1,18 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    RewriteBase /
+
+
+    RewriteCond %{SERVER_PORT} !^443$
+    RewriteRule ^(.*)$ https://%{SERVER_NAME}$1 [L,R]
+
+
+
+<Files *>
+ Options -Indexes
+</Files>
+
+</IfModule>
+
+
